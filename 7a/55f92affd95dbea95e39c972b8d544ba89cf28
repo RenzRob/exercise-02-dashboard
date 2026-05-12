@@ -1,0 +1,29 @@
+frontend/app.py
+  h_c044bf8701ab58 44,52-53,146,163,174,195
+  s_43a720935182f0::t_5f25878a8650e0 3-4,6-7,10,13,15,17-19,22,24,27,31-33,35-43,45-51,54-145,147,150-152,154-162,164-169,171-173,175-194,196-201,203-210,214
+frontend/requirements.txt
+  s_43a720935182f0::t_afd13ba7a90849 1,3
+frontend/Dockerfile
+  h_c044bf8701ab58 1,3,6,8-9,11,15,17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "7a55f92affd95dbea95e39c972b8d544ba89cf28",
+  "prompts": {},
+  "humans": {
+    "h_c044bf8701ab58": {
+      "author": "rrobles_meli <renzo.robles@mercadolibre.com>"
+    }
+  },
+  "sessions": {
+    "s_43a720935182f0": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "ae547d3a-fe10-42e5-a9a4-f336c97d0635",
+        "model": "unknown"
+      },
+      "human_author": "rrobles_meli <renzo.robles@mercadolibre.com>"
+    }
+  }
+}
