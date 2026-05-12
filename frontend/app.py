@@ -33,6 +33,10 @@ def safe_rerun():
         st.session_state["_rerun"] = st.session_state.get("_rerun", 0) + 1
 
 
+if "_rerun" not in st.session_state:
+    st.session_state["_rerun"] = 0
+
+
 def get_health() -> (bool, Any):
     try:
         r = requests.get(f"{API_URL}/health", timeout=4)
