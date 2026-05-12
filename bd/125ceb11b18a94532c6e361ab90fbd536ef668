@@ -1,0 +1,33 @@
+frontend/proxy.py
+  s_43a720935182f0::t_0f693ad0ca8dec 1-45
+frontend/Dockerfile
+  s_43a720935182f0::t_4824fdab17f04d 15
+  s_43a720935182f0::t_49aa33002dbfc5 7-12
+  s_43a720935182f0::t_946094bc7c9667 25
+frontend/app.py
+  s_43a720935182f0::t_986f97c3c1ece4 36-38
+frontend/requirements.txt
+  s_43a720935182f0::t_c852b59ba65249 4-5
+  s_43a720935182f0::t_d7abc7c693023e 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "bd125ceb11b18a94532c6e361ab90fbd536ef668",
+  "prompts": {},
+  "humans": {
+    "h_c044bf8701ab58": {
+      "author": "rrobles_meli <renzo.robles@mercadolibre.com>"
+    }
+  },
+  "sessions": {
+    "s_43a720935182f0": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "ae547d3a-fe10-42e5-a9a4-f336c97d0635",
+        "model": "unknown"
+      },
+      "human_author": "rrobles_meli <renzo.robles@mercadolibre.com>"
+    }
+  }
+}
