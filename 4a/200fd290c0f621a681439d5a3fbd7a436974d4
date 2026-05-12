@@ -1,0 +1,14 @@
+frontend/app.py
+  h_c044bf8701ab58 14,17-18,96,98,100,102,119,127,145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "4a200fd290c0f621a681439d5a3fbd7a436974d4",
+  "prompts": {},
+  "humans": {
+    "h_c044bf8701ab58": {
+      "author": "rrobles_meli <renzo.robles@mercadolibre.com>"
+    }
+  }
+}
